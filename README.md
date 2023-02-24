@@ -3,7 +3,11 @@
 An App which shows all of harry potter characters and all the information about them like their name , species ,
 gender , ancestry , etc...
 
-
+<img src = "assets/images/Screenshot_20230224_014507.jpg" width="200">  
+<img src = "assets/images/Screenshot_20230224_014459.jpg" width="200"> 
+<img src = "assets/images/Screenshot_20230224_014519.jpg" width="200"> 
+<img src = "assets/images/Screenshot_20230224_014525.jpg" width="200"> 
+<img src = "assets/images/Screenshot_20230224_014528.jpg" width="200"> 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
