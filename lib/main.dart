@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:harry_potter_app/app_router.dart';
+import 'package:harry_potter_app/splash.dart';
 
 void main() {
   runApp(HarryPotterApp(appRouter: AppRouter()));
@@ -12,6 +13,7 @@ class HarryPotterApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       onGenerateRoute: appRouter.generateRoute,
+      home: SplashPage(),
     );
   }
 }

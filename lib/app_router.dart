@@ -6,6 +6,7 @@ import 'package:harry_potter_app/data/Api/characters_api.dart';
 import 'package:harry_potter_app/data/repository/characters_repository.dart';
 import 'package:harry_potter_app/presentation/screens/characters_details_screen.dart';
 import 'package:harry_potter_app/presentation/screens/characters_screen.dart';
+import 'package:harry_potter_app/splash.dart';
 import 'data/models/characters_model.dart';
 
 class AppRouter {
