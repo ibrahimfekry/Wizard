@@ -5,10 +5,11 @@ gender , ancestry , etc...
 
 <img src = "assets/images/Screenshot_20230224_014507.jpg" width="200">  
 <img src = "assets/images/Screenshot_20230224_014459.jpg" width="200"> 
-<img src = "assets/images/Screenshot_20230224_014519.jpg" width="200"> 
+<img src = "assets/images/Screenshot_20230224_014519.jpg" width="200">
 <img src = "assets/images/Screenshot_20230313_182206.jpg" width="200">
-<img src = "assets/images/Screenshot_20230313_18212.jpg" width="200">
-<img src = "assets/images/Screenshot_20230224_014519.jpg" width="200"> 
+<img src = "assets/images/Screenshot_20230313_182212.jpg" width="200">
+<img src = "assets/images/app_logo.png" width="200"> 
+
 ## Getting Started
 
 This project is a st    arting point for a Flutter application.
